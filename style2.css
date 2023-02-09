@@ -1,0 +1,62 @@
+body {
+  background-color: #f0ece2;
+  font-family: "Padauk", sans-serif;
+}
+
+img {
+  max-width: 50%;
+  display: block;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5%;
+  opacity: 1;
+}
+
+img:hover {
+  opacity: 0.5;
+}
+
+h1 {
+  font-size: xx-large;
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+}
+
+.intro {
+  background-color: #dfd3c3;
+  text-align: center;
+}
+
+.ingredienser {
+  background-color: #c7b198;
+}
+
+.fremgangsmåde {
+  background-color: #596e79;
+}
+
+h2,
+h4 {
+  font-family: "Hind Vadodara", sans-serif;
+}
+
+nav {
+  text-align: center;
+}
+
+#nav {
+  list-style-type: none;
+}
+
+h1 > p {
+  text-align: center;
+  font-size: xx-small;
+  font-style: italic;
+  font-weight: lighter;
+}
+
+footer {
+  font-style: italic;
+  font-weight: lighter;
+}
