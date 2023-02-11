@@ -14,7 +14,7 @@ main {
   gap: 5px;
 }
 
-@media (min-width: ) {
+@media (min-width:600) {
   main {
     display: grid;
     grid-template-areas:
@@ -55,6 +55,14 @@ footer {
 nav {
   grid-area: nav;
   background-color: #596e79;
+  text-align:center
+}
+.kartoffel{
+  text-align: left;
+}
+
+.kylling{
+  text-align: left;
 }
 
 img {
